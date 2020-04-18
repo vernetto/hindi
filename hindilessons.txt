@@ -116,31 +116,38 @@ flag  jhanda  झंडा   झ ं ड ा    jha Da
 rice  chaaval  चावल   च ा व ल  cha wa la  
 lentils masoor kee daal   मसूर की दाल   म स ू र क ी द ा ल
 
-अनार अ न ा र anaar pomegranate
+अनार anaar अ न ा र  pomegranate
 आम आ म aam mango
-आज  aaj today
-आग  aag fire
-आना aana come 
-आगरा  aagra 
-आप aap you
-आपक aapka  your
-आसन aasan easy
-इटली  itlee 
-इमली  इ म ल ी imalee  tamarind (ी dirg eee in matra form)
-ईख    eekh reed  ( dirgh ee in matra form )
+आज  aaj आ ज today
+आग  aag आ ग fire
+आना aana आ न ा come 
+आगरा  aagra आ ग र ा 
+आप aap आ प you
+आपक aapka आ प क  your
+आसन aasan आ स न easy
+इटली  इ ट ल ी itlee 
+इमली  इ म ल ी imalee  tamarind (ी dirg ee in matra form)
+ईख   ई ख  eekh reed  ( dirgh ee in matra form )
 उल्लू    उ ल ् ल ू  ulloo owl  ( उ harsha )
 ऊन  oon wool
 ऋषि  ऋ ष ि rshi sage
-एड़ी   edee heel
-ऐनक  ainak specs
-ओखली okhalee mortar
-औषढ  aushadh Medicine
+एड़ी   ए ड़ ी edee heel
+ऐनक  ऐ न क ainak specs
+ओखली  ओ ख ल ी okhalee mortar
+औषढ  औ ष ढ aushadh Medicine
 अंगूर  अ ं ग ू र angoor  grape
 केला क े ल ा kela  banana
-खरगोश  kharagosh rabbit
-गाजर  gaajar  carrot
-घड़ी  ghadee clock
-चम्मच  chammach spoon
+खरगोश  ख र ग ो श kharagosh rabbit
+गाजर  ग ा ज र  gaajar carrot
+घड़ी  घ ड़ ी ghadee clock
+चम्मच  च म ् म च  chammach spoon
+छाता  छ ा त ा chhaata umbrella
+
+
+
+टेलीफोन  teleephon  ट े ल ी फ ो न 
+Good morning shubh prabhaat शुभ प्रभात  श ु भ   प ् र भ ा त   
+
 
 अ  (a)  आ (aa)  इ (i) ई (ii) उ (u) ऊ (uu)
 ऋ (ri) ए (e)  ऐ (ee) ओ (o) औ (au) अं (am) अः (ah)
@@ -154,6 +161,7 @@ lentils masoor kee daal   मसूर की दाल   म स ू र क �
 ष (shha) स (sa) ह (ha) क्ष (ksh) त्र (tra)
 ज्ञ (gya) 
 
+ड़ (dee = ड + ??? )
 ो   ं = anaswaar = half  ु   ड़  ा  = a ्  ी  ee  ि i  
 ू u  
 े  eh
